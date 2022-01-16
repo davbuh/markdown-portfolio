@@ -3,7 +3,3 @@
 - Long walks on the shore
 - Ballroom dancing
 - Pyhton
-
----
-layout: default
----
