@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+- yeah this is the first one
+- then python kickes in
